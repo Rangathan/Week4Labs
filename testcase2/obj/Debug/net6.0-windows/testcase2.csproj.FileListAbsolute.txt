@@ -1,0 +1,17 @@
+D:\Adam\Labwork\Week4\testcase2\bin\Debug\net6.0-windows\testcase2.exe
+D:\Adam\Labwork\Week4\testcase2\bin\Debug\net6.0-windows\testcase2.deps.json
+D:\Adam\Labwork\Week4\testcase2\bin\Debug\net6.0-windows\testcase2.runtimeconfig.json
+D:\Adam\Labwork\Week4\testcase2\bin\Debug\net6.0-windows\testcase2.dll
+D:\Adam\Labwork\Week4\testcase2\bin\Debug\net6.0-windows\testcase2.pdb
+D:\Adam\Labwork\Week4\testcase2\obj\Debug\net6.0-windows\testcase2.csproj.AssemblyReference.cache
+D:\Adam\Labwork\Week4\testcase2\obj\Debug\net6.0-windows\testcase2.Form1.resources
+D:\Adam\Labwork\Week4\testcase2\obj\Debug\net6.0-windows\testcase2.csproj.GenerateResource.cache
+D:\Adam\Labwork\Week4\testcase2\obj\Debug\net6.0-windows\testcase2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Adam\Labwork\Week4\testcase2\obj\Debug\net6.0-windows\testcase2.AssemblyInfoInputs.cache
+D:\Adam\Labwork\Week4\testcase2\obj\Debug\net6.0-windows\testcase2.AssemblyInfo.cs
+D:\Adam\Labwork\Week4\testcase2\obj\Debug\net6.0-windows\testcase2.csproj.CoreCompileInputs.cache
+D:\Adam\Labwork\Week4\testcase2\obj\Debug\net6.0-windows\testcase2.dll
+D:\Adam\Labwork\Week4\testcase2\obj\Debug\net6.0-windows\refint\testcase2.dll
+D:\Adam\Labwork\Week4\testcase2\obj\Debug\net6.0-windows\testcase2.pdb
+D:\Adam\Labwork\Week4\testcase2\obj\Debug\net6.0-windows\testcase2.genruntimeconfig.cache
+D:\Adam\Labwork\Week4\testcase2\obj\Debug\net6.0-windows\ref\testcase2.dll
