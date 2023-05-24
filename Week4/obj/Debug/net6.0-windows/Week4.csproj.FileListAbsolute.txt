@@ -1,0 +1,17 @@
+D:\Adam\Labwork\Week4\Week4\bin\Debug\net6.0-windows\Week4.exe
+D:\Adam\Labwork\Week4\Week4\bin\Debug\net6.0-windows\Week4.deps.json
+D:\Adam\Labwork\Week4\Week4\bin\Debug\net6.0-windows\Week4.runtimeconfig.json
+D:\Adam\Labwork\Week4\Week4\bin\Debug\net6.0-windows\Week4.dll
+D:\Adam\Labwork\Week4\Week4\bin\Debug\net6.0-windows\Week4.pdb
+D:\Adam\Labwork\Week4\Week4\obj\Debug\net6.0-windows\Week4.csproj.AssemblyReference.cache
+D:\Adam\Labwork\Week4\Week4\obj\Debug\net6.0-windows\Week4.Form1.resources
+D:\Adam\Labwork\Week4\Week4\obj\Debug\net6.0-windows\Week4.csproj.GenerateResource.cache
+D:\Adam\Labwork\Week4\Week4\obj\Debug\net6.0-windows\Week4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Adam\Labwork\Week4\Week4\obj\Debug\net6.0-windows\Week4.AssemblyInfoInputs.cache
+D:\Adam\Labwork\Week4\Week4\obj\Debug\net6.0-windows\Week4.AssemblyInfo.cs
+D:\Adam\Labwork\Week4\Week4\obj\Debug\net6.0-windows\Week4.csproj.CoreCompileInputs.cache
+D:\Adam\Labwork\Week4\Week4\obj\Debug\net6.0-windows\Week4.dll
+D:\Adam\Labwork\Week4\Week4\obj\Debug\net6.0-windows\refint\Week4.dll
+D:\Adam\Labwork\Week4\Week4\obj\Debug\net6.0-windows\Week4.pdb
+D:\Adam\Labwork\Week4\Week4\obj\Debug\net6.0-windows\Week4.genruntimeconfig.cache
+D:\Adam\Labwork\Week4\Week4\obj\Debug\net6.0-windows\ref\Week4.dll
